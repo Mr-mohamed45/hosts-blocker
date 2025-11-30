@@ -27,8 +27,8 @@ A simple Python tool to **block access to websites** on your Windows machine by 
 
 ```bash
 git clone https://github.com/yourusername/website-blocker.git
-
-
+```
+## Example 🖥️
 === Website Blocker (Safe Version) ===
 Enter websites to block (type 0 to finish):
 
