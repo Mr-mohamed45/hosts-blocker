@@ -29,6 +29,7 @@ A simple Python tool to **block access to websites** on your Windows machine by 
 git clone https://github.com/yourusername/website-blocker.git
 ```
 ## Example 🖥️
+```bash
 === Website Blocker (Safe Version) ===
 Enter websites to block (type 0 to finish):
 
@@ -39,4 +40,4 @@ Processing...
 
 [example.com] has been blocked.
 [www.example.com] has been blocked.
-
+```
